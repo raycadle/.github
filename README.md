@@ -1,1 +1,1 @@
-# Default Community Health Files
+# Community Health Files
